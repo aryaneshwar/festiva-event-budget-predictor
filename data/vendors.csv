@@ -1,0 +1,9 @@
+vendor_id,category,city,price,rating
+1,photographer,Bangalore,50000,4.5
+2,catering,Bangalore,200000,4.7
+3,decorator,Bangalore,150000,4.3
+4,venue,Bangalore,300000,4.6
+5,photographer,Mumbai,70000,4.8
+6,catering,Mumbai,250000,4.6
+7,decorator,Delhi,120000,4.2
+8,venue,Delhi,280000,4.5
